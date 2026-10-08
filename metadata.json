@@ -1,0 +1,6 @@
+{
+  "name": "MarketPulse Online Marketing Hub",
+  "description": "Enterprise-grade digital marketing suite with multi-channel campaign planning, real-time ROAS analytics, ad copy studio, SEO planner, and GitHub repository integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
